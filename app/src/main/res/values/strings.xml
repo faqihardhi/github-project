@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataCovid-19</string>
+    <string name="my_github_profile">Data Covid-19</string>
+    <string name="search">Search</string>
+    <string name="user_login">Input User Login</string>
+    <string name="github_user_profile">Data Covid-19</string>
+    <string name="image_user">Image User</string>
+</resources>
